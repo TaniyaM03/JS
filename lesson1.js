@@ -1,6 +1,6 @@
 const accountid =123456
 let accemail ="myname@gmail.com"
-var accpassword ="34567"
+let accpassword ="34567"
 accity ="Bengaluru"
 //accountid = 2
 accemail="hi@gmail.com"
